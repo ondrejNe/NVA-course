@@ -1,0 +1,9 @@
+matplotlib
+numpy
+scipy
+jupyter
+pandas
+scikit-learn
+plotly
+pyproj
+folium
